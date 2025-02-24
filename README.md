@@ -25,10 +25,10 @@ Data Science professional skilled in ML, feature engineering, and statistical an
 
 ### 🔧 Skills Summary  
 
-   • **Programming & Tools:** Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS. 
-   • **Libraries & Frameworks:** Numpy, Pandas, LangChain, OpenCV, TensorFlow, Keras, PyTorch, Scikit-Learn, MediaPipe, Matplotlib, Seaborn.
-   • **Data Science & ML:** Supervised Learning (Regression, Classification), Convolutional Neural Networks, Computer Vision, Feature Engineering, Data Modeling, Statistical Modeling, ETL, RAG, Prompt Engineering. 
-   • **Soft Skills:** Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership.  
+   • **Programming & Tools:** Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS
+   • **Libraries & Frameworks:** Numpy, Pandas, LangChain, OpenCV, TensorFlow, Keras, PyTorch, Scikit-Learn, MediaPipe, Matplotlib, Seaborn
+   • **Data Science & ML:** Supervised Learning (Regression, Classification), Convolutional Neural Networks, Computer Vision, Feature Engineering, Data Modeling, Statistical Modeling, ETL, RAG, Prompt Engineering 
+   • **Soft Skills:** Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership  
 
 ---
 ### 🎓 Extracurricular Experience  
