@@ -25,19 +25,20 @@ Data Science professional skilled in ML, feature engineering, and statistical an
 
 ### 🔧 Skills Summary  
 
-   • **Programming & Tools:** Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS  
-   • **Libraries & Frameworks:** Numpy, Pandas, LangChain, OpenCV, TensorFlow, Keras, PyTorch, Scikit-Learn, MediaPipe, Matplotlib, Seaborn, Django  
-   • **Data Science & ML:** Supervised Learning (Regression, Classification), Convolutional Neural Networks, Computer Vision, Feature Engineering, Data Modeling, Statistical Modeling, ETL, RAG, Prompt Engineering  
-   • **Soft Skills:** Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership  
+   • **Programming & Tools:** Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS. 
+   • **Libraries & Frameworks:** Numpy, Pandas, LangChain, OpenCV, TensorFlow, Keras, PyTorch, Scikit-Learn, MediaPipe, Matplotlib, Seaborn.
+   • **Data Science & ML:** Supervised Learning (Regression, Classification), Convolutional Neural Networks, Computer Vision, Feature Engineering, Data Modeling, Statistical Modeling, ETL, RAG, Prompt Engineering. 
+   • **Soft Skills:** Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership.  
 
 ---
 ### 🎓 Extracurricular Experience  
 
 - **Vice-Chairperson, MTS Autonomous Underwater Vehicle ZHCET Club**  
   *Aligarh Muslim University | May 2022 - May 2023*  
-  • Led a team in designing and fabricating an Autonomous Underwater Vehicle (AUV) using space-grade materials.  
-  • Organized workshops and hands-on training sessions on underwater robotics and autonomous systems.  
-  • Collaborated with multidisciplinary teams to enhance AUV performance and participation in national-level competitions.  
+  • Led a team in designing and fabricating an Autonomous Underwater Vehicle (AUV) using space-grade materials.
+  • Worked on problems in the domain of Computer Vision and Image Processing.  
+  • Organized workshops and hands-on training sessions on underwater robotics and autonomous systems.    
+  • Collaborated with multidisciplinary teams to enhance AUV performance and participated in **national and international competitions**  
 
 ## 🤝 Let's Connect
 <p align="center">
