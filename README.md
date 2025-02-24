@@ -21,19 +21,11 @@ Data Science professional skilled in ML, feature engineering, and statistical an
   - AI Product/Service Prototyping
   - Market Segmentation using Machine Learning and Data Analysis
 
-### 📊 Projects
-| No. | Project Title | Date | Skills |
-|----|-----------------------------|------------------|---------------------------------------------------|
-| 1 | Sitting Posture and Mood Monitoring System | Aug 2023 - Apr 2024 | Python, CNN, MediaPipe, Computer Vision, Streamlit |
-| 2 | AI-Powered Skill Gap Analyzer | Sep 2024 - Oct 2024 | LangChain, Python, Gen-AI, Streamlit |
-| 3 | Bank Customer Churn Analysis and Prediction | Aug 2023 - Aug 2023 | Python, Machine Learning, Streamlit, Power BI |
-| 4 | Swiggy Customers’ Cohort/Retention Analysis | March 2023 - March 2023 | SQL, PostgreSQL, Cohort Analysis |
-
 ### 🔧 Skills Summary
-**Programming & Tools:** Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS  
-**Libraries & Frameworks:** Numpy, Pandas, LangChain, OpenCV, TensorFlow, Keras, PyTorch, Scikit-Learn, MediaPipe, Matplotlib, Seaborn, Django  
-**Data Science & ML:** Supervised Learning (Regression, Classification), Convolutional Neural Networks, Feature Engineering, Data Modeling, Statistical Modeling, ETL, RAG, Prompt Engineering  
-**Soft Skills:** Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership  
+-**Programming & Tools:** Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS  
+-**Libraries & Frameworks:** Numpy, Pandas, LangChain, OpenCV, TensorFlow, Keras, PyTorch, Scikit-Learn, MediaPipe, Matplotlib, Seaborn, Django  
+-**Data Science & ML:** Supervised Learning (Regression, Classification), Convolutional Neural Networks, Feature Engineering, Data Modeling, Statistical Modeling, ETL, RAG, Prompt Engineering  
+-**Soft Skills:** Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership  
 
 ### 🎓 Extracurricular Experience
 - **Chairperson, Entrepreneurship Development Cell**  
