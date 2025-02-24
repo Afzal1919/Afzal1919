@@ -18,9 +18,8 @@ Data Science professional skilled in ML, feature engineering, and statistical an
 
 - **Machine Learning Intern**  
   *Feynn Labs, Remote | April 2024 - July 2024*  
-  - Analyzed data from various internal sources, including client complaints, to support the quality team in identifying trends and driving process improvements.
-  - Contributed to the development of the "Customer Complaint Management Tool" to streamline the complaint-handling process.
-  - Automated complaint submission and receipt processes using Django, reducing resolution time by 25-30%.
+  - AI Product/Service Prototyping
+  - Market Segmentation using Machine Learning and Data Analysis
 
 ### 📊 Projects
 | No. | Project Title | Date | Skills |
