@@ -3,7 +3,8 @@
 ### About Me
 Hi, I’m Mohammad Afzal, a data science enthusiast passionate about transforming data into actionable insights.
 
-Having hands-on experience in ETL, exploratory data analysis, predictive modeling, and visualization through various projects, I am eager to collaborate and make a meaningful impact through data-driven strategies.
+Data Science professional skilled in ML, feature engineering, and statistical analysis. Experienced in ETL, predictive modeling, and visualization, with a strong focus on problem-solving and data-driven decision-making.
+
 
 ### 💼 Professional Experience
 - **Data Quality Associate**  
