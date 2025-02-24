@@ -33,15 +33,15 @@ Data Science professional skilled in ML, feature engineering, and statistical an
 ---
 ### 🎓 Extracurricular Experience  
 
-• **Vice-Chairperson, MTS Autonomous Underwater Vehicle ZHCET Club**  
+- **Vice-Chairperson, MTS Autonomous Underwater Vehicle ZHCET Club**  
   *Aligarh Muslim University | May 2022 - May 2023*  
-  - Led a team in designing and fabricating an Autonomous Underwater Vehicle (AUV) using space-grade materials.  
-  - Organized workshops and hands-on training sessions on underwater robotics and autonomous systems.  
-  - Collaborated with multidisciplinary teams to enhance AUV performance and participation in national-level competitions.  
+  • Led a team in designing and fabricating an Autonomous Underwater Vehicle (AUV) using space-grade materials.  
+  • Organized workshops and hands-on training sessions on underwater robotics and autonomous systems.  
+  • Collaborated with multidisciplinary teams to enhance AUV performance and participation in national-level competitions.  
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mohammad-afzal-"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/mohammad-afzal-"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   </p>
 
 Let's collaborate and build something amazing! 🚀
