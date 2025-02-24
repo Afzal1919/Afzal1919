@@ -35,13 +35,11 @@ Data Science professional skilled in ML, feature engineering, and statistical an
 ### 🎓 Extracurricular Experience  
 
 - **Vice-Chairperson, MTS Autonomous Underwater Vehicle ZHCET Club**  
-  *Aligarh Muslim University | May 2022 - May 2023*  
-  • Led a team in designing and fabricating an Autonomous Underwater Vehicle (AUV) using space-grade materials.
+  *Aligarh Muslim University | May 2022 - May 2023*
   
-  • Worked on problems in the domain of Computer Vision and Image Processing.
-  
-  • Organized workshops and hands-on training sessions on underwater robotics and autonomous systems.
-     
+  • Led a team in designing and fabricating an Autonomous Underwater Vehicle (AUV) using space-grade materials.  
+  • Worked on problems in the domain of Computer Vision and Image Processing.  
+  • Organized workshops and hands-on training sessions on underwater robotics and autonomous systems.     
   • Collaborated with multidisciplinary teams to enhance AUV performance and participated in **national and international competitions**. 
 
 ## 🤝 Let's Connect
