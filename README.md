@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammad Afzal!
 
 ## 🚀 About Me
-Hi, I’m Mohd Shajar, a data science enthusiast passionate about transforming data into actionable insights.
+Hi, I’m Mohammad Afzal, a data science enthusiast passionate about transforming data into actionable insights.
 
 Having hands-on experience in ETL, exploratory data analysis, predictive modeling, and visualization through various projects, I am eager to collaborate and make a meaningful impact through data-driven strategies.
 
@@ -41,20 +41,10 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
   - Revitalized the Cell after a prolonged shutdown, leading a cross-functional team of 16 members.
   - Organized university-level workshops and events, including the week-long "Entrepreneurship Essentials" workshop for aspiring entrepreneurs.
 
-## 📌 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" alt="Top Languages">
-</p>
 
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web"></a>
-</p>
+  </p>
 
 Let's collaborate and build something amazing! 🚀
