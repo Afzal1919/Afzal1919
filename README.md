@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Mohammad Afzal!
 
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) ![Stars](https://img.shields.io/github/stars/yourusername?label=Star&style=social)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
-</p>
-
 ## 🚀 About Me
 Hi, I’m Mohd Shajar, a data science enthusiast passionate about transforming data into actionable insights.
 
