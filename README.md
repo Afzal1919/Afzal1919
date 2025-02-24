@@ -7,20 +7,15 @@ Data Science professional skilled in ML, feature engineering, and statistical an
 
 
 ### 💼 Professional Experience
-- **Data Quality Associate**  
-  **GlobalLogic, Gurugram | Dec 2024 - Present**  
+- **Data Scientist**  
+  *Siemens Energy, Gujarat | July 2024 - Present*  
   - Ensuring data accuracy and integrity by implementing data quality assurance processes and standards.
 
-- **Intern**  
-  **Siemens, Gurugram | April 2024 - September 2024**  
+- **Machine Learning Intern**  
+  *Feynn Labs, Remote | April 2024 - July 2024*  
   - Analyzed data from various internal sources, including client complaints, to support the quality team in identifying trends and driving process improvements.
   - Contributed to the development of the "Customer Complaint Management Tool" to streamline the complaint-handling process.
   - Automated complaint submission and receipt processes using Django, reducing resolution time by 25-30%.
-
-- **Data Analyst Intern**  
-  **GuruCool, Remote | February 2023 - April 2023**  
-  - Collaborated with a 3-member data team to analyze and interpret user engagement data using Excel from the Padhaai App and its Instagram page, delivering actionable insights that drove growth.
-  - Developed and recommended content strategies for the Padhaai App, leading to an increase in app downloads.
 
 ### 📊 Projects
 | No. | Project Title | Date | Skills |
