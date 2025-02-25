@@ -20,9 +20,9 @@ Data Science professional skilled in ML, feature engineering, and statistical an
 - **Machine Learning Intern**  
   *Feynn Labs, Remote | April 2024 - July 2024*
   
-  •Developed AI product prototype  
-  •Conducted market segmentation for the company’s projects using Machine Learning.  
-  •Developed business and financial modeling for an AI-based product. 
+  • Developed AI product prototype  
+  • Conducted market segmentation for the company’s projects using Machine Learning.  
+  • Developed business and financial modeling for an AI-based product. 
 
 ---
 
